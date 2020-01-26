@@ -8,3 +8,6 @@ ML_copy.ipynb: Code specific for income prediction
 tcd ml 2019-20 income prediction submission file.csv: Final Submission
 
 # Also, data size is too big, hence getting error to upload it here.
+
+
+Private Board, I have got 6th rank overall
